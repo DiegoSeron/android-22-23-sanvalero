@@ -1,5 +1,8 @@
 package com.example.mvp.contract;
 
+import com.example.mvp.model.pojo.Film;
+import com.example.mvp.model.pojo.User;
+
 public interface LoginContract {
     public interface View{
         void successLogin(User user, String message);
@@ -7,6 +10,7 @@ public interface LoginContract {
     }
     public interface Presenter{
         void login (User user);
+        void lstFilms(Film film);
     }
     public interface Model{
         interface OnLoginUserListener{

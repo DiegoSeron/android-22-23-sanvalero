@@ -5,10 +5,13 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.Toast;
 
 import com.example.mvp.R;
+import com.example.mvp.contract.LoginContract;
+import com.example.mvp.model.pojo.User;
 
-public class LoginActivity extends AppCompatActivity {
+public class LoginActivity extends AppCompatActivity implements LoginContract.View {
     private EditText edtUserLogin;
     private EditText edtPasswordLogin;
     private Button btnLogin;
@@ -28,5 +31,15 @@ public class LoginActivity extends AppCompatActivity {
 
     private void initPresenter(){
 
+    }
+
+    @Override
+    public void successLogin(User user, String message) {
+        Toast.makeText(this,message,Toast.LENGTH_SHORT).show();
+    }
+
+    @Override
+    public void failureLogin(String err) {
+        Toast.makeText(this,err,Toast.LENGTH_SHORT).show();
     }
 }

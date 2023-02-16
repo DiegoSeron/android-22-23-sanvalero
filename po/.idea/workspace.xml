@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f51eca67-acbf-4bd4-9c7b-2fe0f2ae273d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../MVP/app/src/main/java/com/example/mvp/model/pojo/Film.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVP/app/src/main/java/com/example/mvp/model/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Skill5/Skill#5.1/app/src/main/java/com/example/skill51/AdapterDatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Skill5/Skill#5.1/app/src/main/res/layout/item_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Skill5/Skill#5.2/app/src/main/java/com/example/skill52/AdaptadorPersonajes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Skill5/Skill#5.2/app/src/main/java/com/example/skill52/PersonajeVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Skill5/Skill#5.2/app/src/main/res/drawable-v24/bart.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Skill5/Skill#5.2/app/src/main/res/drawable-v24/burns.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Skill5/Skill#5.2/app/src/main/res/drawable-v24/flanders.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Skill5/Skill#5.2/app/src/main/res/drawable-v24/homero.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Skill5/Skill#5.2/app/src/main/res/drawable-v24/krusti.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Skill5/Skill#5.2/app/src/main/res/drawable-v24/lisa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Skill5/Skill#5.2/app/src/main/res/drawable-v24/magie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Skill5/Skill#5.2/app/src/main/res/drawable-v24/marge.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Skill5/Skill#5.2/app/src/main/res/drawable-v24/milhouse.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Skill5/Skill#5.2/app/src/main/res/layout/item_list_personajes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.1Skill/app/src/main/res/drawable/background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.1Skill/app/src/main/res/drawable/background2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.1Skill/app/src/main/res/drawable/background3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.1Skill/app/src/main/res/drawable/edittext_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.1Skill/app/src/main/res/drawable/login_btn_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.1Skill/app/src/main/res/mipmap-xxhdpi/back_bottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.1Skill/app/src/main/res/mipmap-xxhdpi/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVP/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MVP/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVP/app/src/main/java/com/example/mvp/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MVP/app/src/main/java/com/example/mvp/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVP/app/src/main/java/com/example/mvp/contract/LoginContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MVP/app/src/main/java/com/example/mvp/contract/LoginContract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVP/app/src/main/java/com/example/mvp/model/LoginModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MVP/app/src/main/java/com/example/mvp/model/LoginModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVP/app/src/main/java/com/example/mvp/presenter/LoginPresenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MVP/app/src/main/java/com/example/mvp/presenter/LoginPresenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVP/app/src/main/java/com/example/mvp/view/LoginActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MVP/app/src/main/java/com/example/mvp/view/LoginActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MVP/app/src/main/res/layout/activity_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MVP/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Lg77758oxMfw0N3wVKeBEJC5pD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="POKEMON-API-01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="POKEMON-API-01" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f51eca67-acbf-4bd4-9c7b-2fe0f2ae273d" name="Changes" comment="" />
+      <created>1676280701328</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676280701328</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

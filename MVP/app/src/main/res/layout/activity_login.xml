@@ -10,8 +10,14 @@
         android:id="@+id/imageView"
         android:layout_width="155dp"
         android:layout_height="196dp"
-        tools:layout_editor_absoluteX="128dp"
-        tools:layout_editor_absoluteY="29dp"
+        android:layout_marginStart="128dp"
+        android:layout_marginTop="29dp"
+        android:layout_marginEnd="128dp"
+        android:layout_marginBottom="41dp"
+        app:layout_constraintBottom_toTopOf="@+id/textView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
         tools:srcCompat="@mipmap/pablo_yoga" />
 
     <EditText
